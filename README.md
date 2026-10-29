@@ -1,11 +1,11 @@
 Welcome! This is the repository for my official portfolio. This project was a major milestone for me because it was the first time I had to manage the entire process. From the initial design and "client" requirements to the final lines of code.
 
-### 🎯 The Goal
+### The Goal
 I wanted to move away from just "making things work" and focus on creating a professional product. This meant paying attention to the small details that make a website feel high-quality, like smooth transitions and fast loading times.
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 I picked these specific technologies to challenge myself and learn industry-standard tools:
 
@@ -16,7 +16,7 @@ I picked these specific technologies to challenge myself and learn industry-stan
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 This project wasn't just about coding; it was about problem-solving. I learned how to:
 1.  **Balance Roles:** Managing the design while worrying about the technical limitations.
